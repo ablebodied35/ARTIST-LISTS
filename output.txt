@@ -1,0 +1,109 @@
+ARTIST               SONGS ON CHART
+Tones and I          1  
+Roddy Ricch          2  
+KAROL G              1  
+Eminem               12 
+Justin Bieber        1  
+Future               1  
+The Weeknd           2  
+Arizona Zervas       1  
+Trevor Daniel        1  
+Dua Lipa             1  
+Maroon 5             1  
+Post Malone          2  
+Billie Eilish        2  
+Mac Miller           6  
+The Black Eyed Peas  1  
+Halsey               2  
+Lewis Capaldi        2  
+Shawn Mendes         1  
+BTS                  1  
+Selena Gomez         2  
+Harry Styles         2  
+Camila Cabello       1  
+Jonas Brothers       1  
+Dimelo Flow          1  
+Blackbear            1  
+Bad Bunny            1  
+DaBaby               1  
+Regard               1  
+YNW Melly            1  
+Don Toliver          1  
+Rauw Alejandro       1  
+Dalex                1  
+MEDUZA               1  
+Doja Cat             1  
+Anuel AA             1  
+BROCKHAMPTON         1  
+Travis Scott         1  
+Tyga                 1  
+Ed Sheeran           3  
+Juice WRLD           2  
+Mustard              1  
+Shakira              1  
+J Balvin             2  
+Lil Uzi Vert         1  
+SAINt JHN            1  
+Nicky Jam            2  
+Khalid               1  
+Dan + Shay           1  
+JP Saxe              1  
+Y2K                  1  
+Juju                 1  
+SHAED                1  
+Jhay Cortez          1  
+
+ARTIST LIST IN ALPHABETICAL ORDER
+Anuel AA
+Arizona Zervas
+BROCKHAMPTON
+BTS
+Bad Bunny
+Billie Eilish
+Blackbear
+Camila Cabello
+DaBaby
+Dalex
+Dan + Shay
+Dimelo Flow
+Doja Cat
+Don Toliver
+Dua Lipa
+Ed Sheeran
+Eminem
+Future
+Halsey
+Harry Styles
+J Balvin
+JP Saxe
+Jhay Cortez
+Jonas Brothers
+Juice WRLD
+Juju
+Justin Bieber
+KAROL G
+Khalid
+Lewis Capaldi
+Lil Uzi Vert
+MEDUZA
+Mac Miller
+Maroon 5
+Mustard
+Nicky Jam
+Post Malone
+Rauw Alejandro
+Regard
+Roddy Ricch
+SAINt JHN
+SHAED
+Selena Gomez
+Shakira
+Shawn Mendes
+The Black Eyed Peas
+The Weeknd
+Tones and I
+Travis Scott
+Trevor Daniel
+Tyga
+Y2K
+YNW Melly
